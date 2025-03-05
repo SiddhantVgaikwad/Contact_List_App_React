@@ -1,3 +1,6 @@
+🌐Hosted URL : https://contactappcn.netlify.app/
+
+
 📞 Contact List App
 
 This is a Contact List App built as a test assignment for Coding Ninjas. The app allows users to manage their contacts by fetching, adding, editing, and deleting contacts. It also includes a light/dark theme toggle and a fake call functionality.
