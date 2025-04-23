@@ -5,6 +5,9 @@
 
 This is a Contact List App built as a test assignment for Coding Ninjas. The app allows users to manage their contacts by fetching, adding, editing, and deleting contacts. It also includes a light/dark theme toggle and a fake call functionality.
 
+![image](https://github.com/user-attachments/assets/10fca017-fca2-4e07-9eff-b717c3e9a6c1)
+
+
 🌟 Features
 
 ✅ Fetch and Display Contacts:
